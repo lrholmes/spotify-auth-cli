@@ -2,11 +2,17 @@
 A tiny helper tool that can be used to quickly fetch a Spotify access token from with the command line.
 
 ### Installation
-```$ npm install -g spotify-auth-cli```
+```
+$ npm install -g spotify-auth-cli
+```
 
 ### Usage
 To retrieve an access token run the following command:
-```$ spotify-token```
+
+```
+$ spotify-token
+```
+
 This will open the Spotify Login dialog in your default browser. After confirming, the window will close itself and if successful, you should see an access token in your console.
 
 ### Options
