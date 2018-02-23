@@ -21,7 +21,7 @@ Several options are available when running the `spotify-token` command.
 ##### Scope
 The `--scope` option can be used to specify the scopes you wish to access. For ease of use, this tool will by default request access to ALL available scopes, so use this option to limit that.
 
-Enter scopes as a comma separated list.
+Enter the scope as a comma separated list.
 ```
 $ spotify-token --scope user-read-private,playlist-modify-private
 ```
