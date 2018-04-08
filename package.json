@@ -7,6 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^2.3.1",
+    "clipboardy": "^1.2.3",
     "express": "^4.16.2",
     "minimist": "^1.2.0",
     "opn": "^5.2.0"
