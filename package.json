@@ -10,7 +10,7 @@
     "clipboardy": "^1.2.3",
     "express": "^4.16.2",
     "minimist": "^1.2.0",
-    "opn": "^5.2.0"
+    "open": "^7.0.4"
   },
   "preferGlobal": true,
   "bin": {
