@@ -13,6 +13,9 @@
     "open": "^7.0.4"
   },
   "preferGlobal": true,
+  "scripts": {
+    "start": "./bin/spotify-token.js"
+  },
   "bin": {
     "spotify-token": "./bin/spotify-token.js"
   }
